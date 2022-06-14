@@ -11,7 +11,6 @@ pokemon_data = response.json()
 
 print(f"You got Pokemon number {pokemon_data['id']}, their name is {pokemon_data['name'].capitalize()}!")
 print(f"Height: {pokemon_data['height']} • Weight: {pokemon_data['weight']}")
-# print(f"Height: {pokemon_data['height']} • Weight: {pokemon_data['weight']}")
 
 pokemon_types = []
 
