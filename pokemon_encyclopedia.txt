@@ -1,0 +1,42 @@
+-----
+Welcome to the Pokemon Encyclopedia!
+This was created as part of a CFGdegree course.
+Here are some Pokemon for your perusal.
+-----
+
+You got Pokemon number 55, their name is Golduck!
+Height: 17 • Weight: 766
+Type(s): water
+Abilities: damp, cloud-nine, swift-swim
+Some moves: mega-punch, pay-day, ice-punch, scratch, mega-kick, headbutt, body-slam, take-down, double-edge, tail-whip
+
+You got Pokemon number 81, their name is Magnemite!
+Height: 3 • Weight: 60
+Type(s): electric and steel
+Abilities: magnet-pull, sturdy, analytic
+Some moves: headbutt, tackle, take-down, double-edge, supersonic, sonic-boom, thunder-shock, thunderbolt, thunder-wave, thunder
+
+You got Pokemon number 15, their name is Beedrill!
+Height: 10 • Weight: 295
+Type(s): bug and poison
+Abilities: swarm, sniper
+Some moves: swords-dance, cut, headbutt, fury-attack, take-down, double-edge, twineedle, pin-missile, hyper-beam, peck
+
+You got Pokemon number 22, their name is Fearow!
+Height: 12 • Weight: 380
+Type(s): normal and flying
+Abilities: keen-eye, sniper
+Some moves: razor-wind, whirlwind, fly, headbutt, fury-attack, take-down, double-edge, leer, growl, hyper-beam
+
+You got Pokemon number 54, their name is Psyduck!
+Height: 8 • Weight: 196
+Type(s): water
+Abilities: damp, cloud-nine, swift-swim
+Some moves: mega-punch, pay-day, ice-punch, scratch, mega-kick, headbutt, body-slam, take-down, double-edge, tail-whip
+
+You got Pokemon number 6, their name is Charizard!
+Height: 17 • Weight: 905
+Type(s): fire and flying
+Abilities: blaze, solar-power
+Some moves: mega-punch, fire-punch, thunder-punch, scratch, swords-dance, cut, wing-attack, fly, mega-kick, headbutt
+
